@@ -1,8 +1,95 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+      "codigo": 1,
+      "nome": "1",
+      "localizacao": "Av Cais do Apolo, em frente a estação de BRT Forte do Brum, oposto ao posto de gasolina",
+      "capacidade": 15,
+      "bairro": "Recife",
+      "latitude": -8.055353,
+      "longitude": -34.871916
+    },
+    {
+      "codigo": 2,
+      "nome": "Praça Tiradentes",
+      "localizacao": "Praça Tiradentes, próximo a Cais do Apolo e oposto ao Tribunal Regional Federal",
+      "capacidade": 15,
+      "bairro": "Recife",
+      "latitude": -8.058764,
+      "longitude": -34.872428
+    },
+    {
+      "codigo": 3,
+      "nome": "Praça do Arsenal",
+      "localizacao": "Rua do Bom Jesus, oposto a Praça do Arsenal, esquina com Rua Barão Rodrigues Mendes",
+      "capacidade": 23,
+      "bairro": "Recife",
+      "latitude": -8.061337,
+      "longitude": -34.871045
+    },
+    {
+      "codigo": 4,
+      "nome": "Boulevard Rio Branco",
+      "localizacao": "Av. Rio Branco, entre a Rua do Apolo e Rua da Guia",
+      "capacidade": 23,
+      "bairro": "Recife",
+      "latitude": -8.062496,
+      "longitude": -34.872956
+    },
+    {
+      "codigo": 5,
+      "nome": "Paço Alfândega",
+      "localizacao": "Avenida Marquês de Olinda, 296, esquina com o cais da alfândega",
+      "capacidade": 31,
+      "bairro": "Recife",
+      "latitude": -8.063777,
+      "longitude": -34.874296
+    },
+    {
+      "codigo": 6,
+      "nome": "Cais de Santa Rita",
+      "localizacao": "Av Martins de Barros em frente ao Terminal de Ônibus Cais de Santa Rita / esquina com Rua Floriano Peixoto",
+      "capacidade": 15,
+      "bairro": "São José",
+      "latitude": -8.067151,
+      "longitude": -34.87577
+    },
+    {
+      "codigo": 7,
+      "nome": "Praça da República",
+      "localizacao": "Praça da República, oposto à Caixa Econômica (lateral do Teatro de Santa Isabel)",
+      "capacidade": 19,
+      "bairro": "Santo Antônio",
+      "latitude": -8.061067,
+      "longitude": -34.878376
+    },
+    {
+      "codigo": 8,
+      "nome": "Praça da Independência",
+      "localizacao": "Av Dantas Barreto, na Praça da Independência, oposto a Igreja Santo Antônio",
+      "capacidade": 23,
+      "bairro": "Santo Antônio",
+      "latitude": -8.064215,
+      "longitude": -34.878397
+    },
+    {
+      "codigo": 9,
+      "nome": "Praça Joaquim Nabuco",
+      "localizacao": "Praça Joaquim Nabuco em frente a Av Floriano Peixoto",
+      "capacidade": 27,
+      "bairro": "Santo Antônio",
+      "latitude": -8.064466,
+      "longitude": -34.881342
+    },
+    {
+      "codigo": 10,
+      "nome": "Casa da Cultura",
+      "localizacao": "Praça Visconde de Mauá, próximo à Casa da Cultura",
+      "capacidade": 27,
+      "bairro": "Santo Antônio",
+      "latitude": -8.066734,
+      "longitude": -34.882855
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
